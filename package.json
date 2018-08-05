@@ -1,0 +1,28 @@
+{
+  "name": "sassdesignlib",
+  "version": "1.0.0",
+  "description": "364",
+  "main": "sass-designLib-documentation.html",
+  "scripts": {
+    "test": "gulp start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pixologic/sassDesignLib.git"
+  },
+  "keywords": [
+    "sass",
+    "conventions",
+    "css",
+    "library"
+  ],
+  "author": "Pixolo Productions",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pixologic/sassDesignLib/issues"
+  },
+  "homepage": "https://github.com/pixologic/sassDesignLib#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
